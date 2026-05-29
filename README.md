@@ -106,10 +106,10 @@ IncomeGroup =
 ## Dashboard Screenshots
 
 ### Transaction Report
-![Credit Card Transaction Report](Credit_Card_Transaction_Report.png)
+![Credit Card Transaction Report](SCREENSHOTS/Credit_Card_Transaction_Report.png)
   
 ### Customer Report
-![Credit Card Customer Report](Credit_Card_Customer_Report.png)
+![Credit Card Customer Report](SCREENSHOTS/Credit_Card_Customer_Report.png)
  
 ---
  
